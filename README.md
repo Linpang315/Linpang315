@@ -1,43 +1,44 @@
-<!-- 🧢 Profil Bujangan Papa -->
+<!-- 💫 Profil Modern 2025 - Akew -->
 
 <h1 align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" style="vertical-align: middle;">  
-  &nbsp; Halo, aku *Bujangan Papa* 👋
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original.svg" width="40" />
+  &nbsp; Halo, saya <span style="color:#00BFFF;">Akew</span> 👋
 </h1>
 
 <p align="center">
-  <em>“Bujang di usia, papa di hati 💓 — tapi ngoding tetap tangguh 💻”</em>
+  <em>“Membangun hal kecil dengan cara modern.”</em>
 </p>
 
 ---
 
-### 📖 Tentang Si Bujangan Papa
+### 🧭 Tentang Saya
 
-Nama panggilan: *BJNGPAPA*  
-Aku seorang *Web Developer & Kreator* yang suka menyimpan cerita lewat kode dan gaya.  
-Aktif membuat aplikasi kecil, desain antarmuka, dan konten kreatif di waktu luang.
+Saya seorang *Web Developer* yang fokus pada tampilan bersih dan fungsional.  
+Saat ini saya mengembangkan proyek berbasis *PHP Native, **Bootstrap, dan **JavaScript*,  
+serta terus belajar tentang desain dan pengalaman pengguna yang lebih baik.
 
 ---
 
-### 🎯 Fokus & Aktifitas Sekarang
+### ⚡ Fokus Saat Ini
 
-- 🌱 Belajar: *Full Stack JavaScript* (Node.js, React), dan API  
-- 🔧 Proyek: Aplikasi Portofolio+Blog + Mini App Kasir  
-- 📸 Selain itu, buat konten ringan (tip coding, cuplikan proyek) untuk suntikan semangat 😎  
+- 💻 Membangun aplikasi kasir modern dengan desain responsif  
+- 🌱 Belajar API Integration, UX Design, dan Frontend Interactivity  
+- 🎯 Visi: Menjadi developer yang bisa membuat solusi digital yang bermanfaat dan estetik  
 
 ---
 
 ### 🧰 Teknologi & Tools
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="45" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="45" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="45" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="45" title="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="45" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" title="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" title="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" title="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" title="Figma"/>
 </p>
 
 ---
@@ -45,21 +46,31 @@ Aktif membuat aplikasi kecil, desain antarmuka, dan konten kreatif di waktu luan
 ### 📊 Statistik GitHub
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bjngpapa&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFD5&icon_color=FF0080" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bjngpapa&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFD5" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=akew&show_icons=true&theme=vision-friendly-dark&hide_border=true&title_color=00BFFF&icon_color=00BFFF" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=akew&theme=vision-friendly-dark&hide_border=true&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" />
 </p>
 
 ---
 
-### 🌐 Jejak Digital
+### 🧩 Proyek Unggulan
+
+| 💡 Proyek | 🔧 Teknologi | 📎 Tautan |
+|------------|---------------|------------|
+| *Aplikasi Kasir Harian* | PHP, Bootstrap, MySQL | [Lihat Repo](https://github.com/akew/app-kasir) |
+| *Tracker Keuangan* | JS, CSS | [Lihat Repo](https://github.com/akew/tracker-harian) |
+| *Website Portofolio* | HTML, Bootstrap | [Lihat Repo](https://github.com/akew/portofolio) |
+
+---
+
+### 🌐 Temukan Saya di
 
 <p align="center">
-  <a href="https://instagram.com/bjngpapa"><img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://tiktok.com/@bujanganpapa"><img src="https://img.shields.io/badge/TikTok-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white"></a>
-  <a href="mailto:bujanganpapa@gmail.com"><img src="https://img.shields.io/badge/Email-00FFD5?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/bjngpapa"><img src="https://img.shields.io/badge/GitHub-2F2F2F?style=for-the-badge;logo=github&logoColor=00FFD5"></a>
+  <a href="mailto:akew@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=00BFFF"></a>
+  <a href="https://linkedin.com/in/akew"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00BFFF"></a>
+  <a href="https://instagram.com/akew"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00BFFF"></a>
+  <a href="https://github.com/akew"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00BFFF"></a>
 </p>
 
 ---
 
-<h3 align="center">✨ “Bujang di nama, papa di jiwa — tapi tetap kreatif di kode.” ✨</h3>
+<h3 align="center">✨ “Teknologi terus berubah — tapi gaya tetap harus keren.” ✨</h3>
