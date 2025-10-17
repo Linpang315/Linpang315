@@ -1,48 +1,66 @@
- 👋 Hai, saya Akew!
+<!-- 🌈 Profil Modern Lucu - Akew -->
 
-Saya seorang pengembang web yang suka membuat hal-hal sederhana jadi berguna.  
-Saat ini saya fokus belajar dan membangun proyek menggunakan *PHP, **Bootstrap, dan **JavaScript*.
-
-💡 Saya tertarik pada:
-- Pengembangan Aplikasi Web
-- Desain Antarmuka (UI/UX)
-- Automasi dan Produktivitas
-
----
-
-## ⚙️ Tumpukan Teknologi
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,mysql,git,github,vscode" />
-</p>
-
----
-
-## 📊 Statistik GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akew&show_icons=true&theme=tokyonight" alt="Statistik GitHub Akew" />
-</p>
+<h1 align="center">✨ Hai, aku <span style="color:#FF69B4;">Akew</span> 👋</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akew&layout=compact&theme=tokyonight" alt="Bahasa Pemrograman Akew" />
+  <em>Ngoding sambil ngopi ☕ — karena bug nggak bisa diajak kompromi 😆</em>
 </p>
 
 ---
 
-## 🌱 Tentang Saya
-- 🔭 Saat ini saya sedang mengerjakan proyek aplikasi kasir berbasis PHP & Bootstrap  
-- 🌱 Sedang belajar: *REST API, **JavaScript Lanjutan, dan **Desain Responsif*  
-- 🎯 Tujuan saya: jadi pengembang yang bisa membuat solusi bermanfaat  
-- 💬 Ayo ngobrol seputar teknologi, desain, atau proyek seru!
+### 🪄 Tentang Aku
+
+Aku seorang *Web Developer* yang suka bikin tampilan web jadi lebih hidup dan gampang dipakai.  
+Sekarang lagi fokus ngulik *PHP Native, **Bootstrap, dan **JavaScript* biar makin jago bikin aplikasi kece 💻  
+
+Aku percaya, kode yang rapi = hidup yang damai 🌿  
 
 ---
 
-## 📫 Hubungi Saya
-<p align="left">
-  <a href="mailto:akew@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/akew"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://instagram.com/akew"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+### 🎯 Fokus Saat Ini
+
+- 🚀 Bikin aplikasi kasir harian (biar duit gak kabur 💸)  
+- 🧠 Lagi belajar: *REST API, **UI/UX Design, dan **Database Optimization*  
+- 🎨 Kadang ngulik desain lucu di Figma, kadang ngulik bug sampai subuh 😅  
+
+---
+
+### 🧰 Alat & Bahasa Favorit
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,mysql,git,github,vscode,figma" />
 </p>
 
 ---
 
-⭐️ “Koding itu seperti seni — semakin sering dilatih, semakin indah hasilnya.”
+### 🦸 Proyek Favoritku
+
+| 🌟 Proyek | ⚙️ Teknologi | 🔗 Tautan |
+|------------|---------------|------------|
+| 💰 *Kasir Harian Lucu* | PHP, Bootstrap, MySQL | [Lihat Repo](https://github.com/akew/app-kasir) |
+| 🐷 *Tracker Keuangan Imut* | JS, CSS | [Lihat Repo](https://github.com/akew/tracker-harian) |
+| 🎨 *Website Pribadi Simple* | HTML, Bootstrap | [Lihat Repo](https://github.com/akew/portofolio) |
+
+---
+
+### 📊 Statistik Seru
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=akew&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akew&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF69B4" />
+</p>
+
+---
+
+### 🌐 Yuk Kenalan!
+
+<p align="center">
+  <a href="mailto:akew@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/akew"><img src="https://img.shields.io/badge/LinkedIn-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://instagram.com/akew"><img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://github.com/akew"><img src="https://img.shields.io/badge/GitHub-2F2F2F?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+---
+
+<h3 align="center">💬 “Ngoding boleh santai, tapi hasilnya tetap kece!” 💻</h3>
