@@ -61,7 +61,7 @@ serta terus belajar tentang desain dan pengalaman pengguna yang lebih baik.
 <p align="center">
   <a href="mailto:lpanggugahm@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=00BFFF"></a>
   <a href="https://instagram.com/akew"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00BFFF"></a>
-  <a href="https://github.com/akew"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00BFFF"></a>
+  <a href="https://github.com/Linpang315"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00BFFF"></a>
 </p>
 
 ---
