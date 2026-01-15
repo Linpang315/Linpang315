@@ -1,4 +1,4 @@
-<!-- 💫 Profil Modern 2025 - Akew -->
+<!-- 💫 Profil- Akew -->
 
 <h1 align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original.svg" width="40" />
